@@ -10,6 +10,7 @@ namespace ConsoleAppRealOneThisTime
     {
         static void Main(string[] args)
         {
+            //test
             Console.WriteLine("Enter number plz");
             int n1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter new number plz");
